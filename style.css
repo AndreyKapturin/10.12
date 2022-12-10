@@ -1,0 +1,22 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.box{
+    width: 50vw;
+    height: 50vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 350px;
+    height: 350px;
+    background-color: blueviolet;
+}
